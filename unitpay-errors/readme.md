@@ -1,9 +1,9 @@
 ## Биллинг через unitpay с ошибками подключения
-###Взят из открытых источников.
-#####Author=Alexeev Vlad
-#####Copyright=(с) cotontidev.ru
-####Автором не поддерживается. 
-####Кто желает, - может доработать под себя.
+### Взят из открытых источников.
+##### Author=Alexeev Vlad
+##### Copyright=(с) cotontidev.ru
+#### Автором не поддерживается. 
+#### Кто желает, - может доработать под себя.
 
 Банковские карты: Visa, MasterCard, Мир, Maestro, JCB, UnionPay
 Yandex Pay, Tinkoff Pay
