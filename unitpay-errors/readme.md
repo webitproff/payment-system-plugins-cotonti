@@ -41,4 +41,4 @@ Beauty & Fashion
 Службы такси
 Упростите работу с входящими платежами, отмененными заказами и выплатами водителям.
 
-
+# провереная рабочая версия плагина [тут](https://github.com/webitproff/payment-system-plugins-cotonti/tree/main/unitpay.ru_tested)
